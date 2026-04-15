@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<keyboard name="UTL-PL (polski)">
+<keyboard bottom_row="false" name="UTL-PL (polski)">
   <row>
     <key key0="esc" key1="config" key2="copy" key3="cut" key4="paste"/>
     <key key0="ą" key3="🙂" key4="🙁" key7="Ą" key8="😐"/>
