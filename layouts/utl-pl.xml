@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keyboard name="UTL-PL (polski)">
+  <row>
+    <key key0="esc" key1="config" key2="copy" key3="cut" key4="paste"/>
+    <key key0="ą" key3="🙂" key4="🙁" key7="Ą" key8="😐"/>
+    <key key0="ć" key7="Ć" key8="¢"/>
+    <key key0="ę" key7="Ę" key8="€"/>
+    <key key0="ł" key7="Ł" key8="£"/>
+    <key key0="ń" key7="Ń"/>
+    <key key0="ó" key7="Ó" key8="="/>
+    <key key0="ś" key7="Ś" key8="$"/>
+    <key key0="ź" key3="[" key4="]" key7="Ź"/>
+    <key key0="ż" key3="{" key4="}" key7="Ż"/>
+  </row>
+</keyboard>
