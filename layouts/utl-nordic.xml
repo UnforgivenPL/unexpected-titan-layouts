@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <keyboard bottom_row="false" name="UTL-Nordic (de no se fi ee)" script="latin">
   <row>
-    <key key0="esc" key1="config" key2="copy" key3="cut" key4="paste"/>
+    <key key0="esc" key1="switch_forward" key2="copy" key3="cut" key4="paste"/>
     <key key0="ä" key3="🙂" key4="🙁" key7="Ä" key8="😐"/>
     <key key0="ö" key7="Ö" key8="¢"/>
     <key key0="å" key7="Å" key8="€"/>
